@@ -1,1 +1,14 @@
-<?php echo "El  amiri" ?>
+<?php
+
+
+require_once '../app/loader.php';
+
+
+
+
+
+
+
+
+
+?>
